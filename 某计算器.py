@@ -1,0 +1,6 @@
+print("----加法计算器开始运行----")
+num1=input("请输入第一个加数：")
+num2=input("请输入第二个加数：")
+s=float(num1)+float(num2)
+print('%.5f'%s)
+input()
